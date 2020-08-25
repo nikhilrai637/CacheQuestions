@@ -1,36 +1,9 @@
 {
-  "Questions": [
+  "posts": [
     {
-      "qid": 1,
-      "title": "First Question",
-      "description" : "The question is what is the first question"
-    },
-    {
-      "qid": 2,
-      "title": "Second Question",
-      "description" : "The question is what is the second question"
-    },
-    {
-      "qid": 3,
-      "title": "Third Question",
-      "description" : "The question is what is the third question"
-    },
-    {
-      "qid": 4,
-      "title": "Fourth Question",
-      "description" : "The question is what is the fourth question"
-    },
-    {
-      "qid": 5,
-      "title": "Fifth Question",
-      "description" : "The question is what is the fifth question"
-    },
-    {
-      "qid": 6,
-      "title": "Sixth Question",
-      "description" : "The question is what is the sixth question"
-    },
-    
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
